@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2017-10-13-於QNAP\ NAS更改NUT設定.markdown
+title:  "2017-10-13-於QNAP\ NAS更改NUT設定.markdown"
 date:   2017-10-13 12:01:00 +0800
 categories: environment
 tags: [lab, nut, nas, qnap]
